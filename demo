@@ -2,4 +2,8 @@ first data
 second data
 third data
 4th data
+<<<<<<< HEAD
 Fifth data
+=======
+5 data
+>>>>>>> dev
